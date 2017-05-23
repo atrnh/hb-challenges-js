@@ -8,9 +8,9 @@ I also tried to preserve the language of the original comments.
 Yes, this does include tests!
 
 ### installation & usage
-Make sure you have `npm` or `yarn` installed. Then install the required dependencies:
+In the root directory: make sure you have `npm` or `yarn` installed. Then install the required dependencies:
 ```
-yarn install
+yarn install -or- npm install
 ```
 
 To check your solution against the tests, simply run your solution file.
