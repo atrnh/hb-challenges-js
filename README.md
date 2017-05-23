@@ -10,7 +10,7 @@ Yes, this does include tests!
 ### installation & usage
 In the root directory: make sure you have `npm` or `yarn` installed. Then install the required dependencies:
 ```
-yarn install -or- npm install
+yarn install
 ```
 
 To check your solution against the tests, simply run your solution file.
