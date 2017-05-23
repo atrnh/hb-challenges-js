@@ -6,15 +6,7 @@
  * @returns        boolean if any two integers sum to 0
  */
 const addToZero = (nums) => {
-  const set = new Set();
-  for (let n of nums) {
-    if (set.has(n * -1)) {
-      return true;
-    } else {
-      set.add(n);
-    }
-  }
-  return false;
+  // Your solution goes here!
 };
 
 
