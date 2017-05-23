@@ -1,0 +1,11 @@
+{
+  "name": "hb-challenges-js",
+  "version": "1.0.0",
+  "description": "Hackbright coding challenges in JavaScript.",
+  "main": "index.js",
+  "author": "Ashley Trinh <atrnh@teknik.io>",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
