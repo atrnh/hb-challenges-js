@@ -51,7 +51,7 @@ const jasmine = new Jasmine();
 jasmine.onComplete(passed => {
   passed ?
     console.log('All tests passed!') :
-    console.log('At least one spec as failed.');
+    console.log('At least one spec has failed.');
 });
 
 jasmine.execute(['addllSpec.js']);
