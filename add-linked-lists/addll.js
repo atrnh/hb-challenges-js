@@ -35,7 +35,7 @@ class Node {
  * @returns    head node of linked list of sum in "reverse-digit" format.
  */
 const addLinkedLists = (l1, l2) => {
-  // Write your solution here!
+  // Start solution here
 };
 
 
@@ -54,4 +54,4 @@ jasmine.onComplete(passed => {
     console.log('At least one spec has failed.');
 });
 
-jasmine.execute(['addllSpec.js']);
+jasmine.execute(['./addllSpec.js']);

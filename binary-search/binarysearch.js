@@ -6,7 +6,7 @@ const assert = require('assert');
  * Using a binary search, find val in range 1-100. Return # of guesses.
  */
 const binarySearch = val => {
-  // Your solution here
+  // Start solution here
 };
 
 /**
@@ -23,4 +23,4 @@ jasmine.onComplete(passed => {
     console.log('At least one spec has failed.');
 });
 
-jasmine.execute(['binarysearchSpec.js']);
+jasmine.execute(['./binarysearchSpec.js']);

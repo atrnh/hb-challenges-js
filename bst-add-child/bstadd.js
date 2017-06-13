@@ -89,7 +89,7 @@ class Node {
   }
 
   insert(newData) {
-    // Insert @param newData new node to BST tree rooted here.
+    // Start solution here
   }
 }
 
@@ -108,4 +108,4 @@ jasmine.onComplete(passed => {
     console.log('At least one spec has failed.');
 });
 
-jasmine.execute(['bstaddSpec.js']);
+jasmine.execute(['./bstaddSpec.js']);

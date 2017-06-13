@@ -6,7 +6,7 @@
  * @returns        boolean if any two integers sum to 0
  */
 const addToZero = (nums) => {
-  // Your solution goes here!
+  // Start solution here
 };
 
 
@@ -24,4 +24,4 @@ jasmine.onComplete(passed => {
     console.log('At least one spec has failed.');
 });
 
-jasmine.execute(['addtozeroSpec.js']);
+jasmine.execute(['./addtozeroSpec.js']);

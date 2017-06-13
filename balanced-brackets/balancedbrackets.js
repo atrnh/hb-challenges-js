@@ -76,4 +76,4 @@ jasmine.onComplete(passed => {
     console.log('At least one spec has failed.');
 });
 
-jasmine.execute(['balancedbracketsSpec.js']);
+jasmine.execute(['./balancedbracketsSpec.js']);

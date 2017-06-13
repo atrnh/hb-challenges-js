@@ -5,7 +5,7 @@
  * @return       boolean of whether or not word is an anagram of a palindrome
  */
 const isAnagramOfPalindrome = word => {
-  // Your solution goes here!
+  // Start solution here
 };
 
 
@@ -23,4 +23,4 @@ jasmine.onComplete(passed => {
     console.log('At least one spec has failed.');
 });
 
-jasmine.execute(['anagramofpalindromeSpec.js']);
+jasmine.execute(['./anagramofpalindromeSpec.js']);
